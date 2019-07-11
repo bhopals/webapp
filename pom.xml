@@ -54,6 +54,11 @@
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
 			</plugin>
+			<plugin>
+<groupid>org.apache.maven.plugins</groupid>
+<artifactid>maven-resources-plugin</artifactid>
+<version>2.4.2</version>
+</plugin>
 		</plugins>
 	</build>
 </project>
